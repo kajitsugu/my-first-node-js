@@ -1,0 +1,198 @@
+# ã“ã® viminfo ãƒ•ã‚¡ã‚¤ãƒ«ã¯ Vim 7.4 ã«ã‚ˆã£ã¦ç”Ÿæˆã•ã‚Œã¾ã—ãŸ.
+# å¤‰æ›´ã™ã‚‹éš›ã«ã¯ååˆ†æ³¨æ„ã—ã¦ãã ã•ã„!
+
+# ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒæ›¸ã‹ã‚ŒãŸæ™‚ã® 'encoding' ã®å€¤
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# æœ€å¾Œã® æ¤œç´¢ãƒ‘ã‚¿ãƒ¼ãƒ³:
+~MSle0~/1.2
+
+# ã‚³ãƒžãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ é …ç›®ã®å±¥æ­´ (æ–°ã—ã„ã‚‚ã®ã‹ã‚‰å¤ã„ã‚‚ã®ã¸):
+:wq
+:q
+:q!
+:Q!
+:.,.+1!q!
+:w
+
+# æ¤œç´¢æ–‡å­—åˆ— é …ç›®ã®å±¥æ­´ (æ–°ã—ã„ã‚‚ã®ã‹ã‚‰å¤ã„ã‚‚ã®ã¸):
+?/1.2
+?/3.1
+?/2.6
+
+# å¼ é …ç›®ã®å±¥æ­´ (æ–°ã—ã„ã‚‚ã®ã‹ã‚‰å¤ã„ã‚‚ã®ã¸):
+
+# å…¥åŠ›è¡Œ é …ç›®ã®å±¥æ­´ (æ–°ã—ã„ã‚‚ã®ã‹ã‚‰å¤ã„ã‚‚ã®ã¸):
+
+# å…¥åŠ›è¡Œ é …ç›®ã®å±¥æ­´ (æ–°ã—ã„ã‚‚ã®ã‹ã‚‰å¤ã„ã‚‚ã®ã¸):
+
+# ãƒ¬ã‚¸ã‚¹ã‚¿:
+""1	CHAR	0
+	jjjjjjjjjjkkjjj
+"2	CHAR	0
+	€kb€kb€kb€kb€kd€kl€kd€kd€kd€kd€kd€kd€kd€kd€kdiiiii€kb€kb€kb€kb€kb
+"3	LINE	0
+	
+"4	LINE	0
+	     d) è²´æ–¹ã‚‚å­¦ã¶ã“ã¨ãŒã§ãã‚‹?
+"5	LINE	0
+	--->  4)  ç§ã¯è»Šã‚’ã‚‚ã£ã¦ã„ã‚‹ã€
+	--->  5)  æ™‚è¨ˆãŒæ™‚åˆ»ã‚’å‘Šã’ã‚‹ã€
+"6	LINE	0
+	--->  2)  ã¤ã¾ã‚‰ãªã„ã‚‚ã®ã¯æ¥½ã—ã„ã€
+"k	CHAR	0
+	3837
+<kkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjj€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€krkjjkk
+"q	CHAR	0
+	11]q1
+"-	CHAR	0
+	ãŸ
+
+# ãƒ•ã‚¡ã‚¤ãƒ«ãƒžãƒ¼ã‚¯:
+'0  11  0  ~/workspace/git-study/index.html
+'1  23  1  /tmp/crontab.yLNgLA/crontab
+'2  22  0  /tmp/crontab.qztJNU/crontab
+'3  67  0  /tmp/tutorcwt1HL
+'4  975  0  /tmp/tutorULhNGr
+'5  1  0  ~/workspace/vim-study/test.txt
+'6  1  0  ~/.profile
+
+# ã‚¸ãƒ£ãƒ³ãƒ—ãƒªã‚¹ãƒˆ (æ–°ã—ã„ã‚‚ã®ãŒå…ˆ):
+-'  11  0  ~/workspace/git-study/index.html
+-'  1  0  ~/workspace/git-study/index.html
+-'  23  1  /tmp/crontab.yLNgLA/crontab
+-'  1  0  /tmp/crontab.yLNgLA/crontab
+-'  22  0  /tmp/crontab.qztJNU/crontab
+-'  1  0  /tmp/crontab.qztJNU/crontab
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  22  0  /tmp/crontab.qztJNU/crontab
+-'  1  0  /tmp/crontab.qztJNU/crontab
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  1  /tmp/crontab.yLNgLA/crontab
+-'  1  0  /tmp/crontab.yLNgLA/crontab
+-'  22  0  /tmp/crontab.qztJNU/crontab
+-'  1  0  /tmp/crontab.qztJNU/crontab
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  22  0  /tmp/crontab.qztJNU/crontab
+-'  1  0  /tmp/crontab.qztJNU/crontab
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  0  /tmp/tutorcwt1HL
+-'  1  5  /tmp/tutorcwt1HL
+-'  377  0  /tmp/tutorcwt1HL
+-'  107  62  /tmp/tutorcwt1HL
+-'  975  0  /tmp/tutorULhNGr
+-'  1  0  /tmp/tutorULhNGr
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  1  0  ~/.profile
+-'  1  0  ~/.profile
+
+# ãƒ•ã‚¡ã‚¤ãƒ«å†…ãƒžãƒ¼ã‚¯ã®å±¥æ­´ (æ–°ã—ã„ã‚‚ã®ã‹ã‚‰å¤ã„ã‚‚ã®):
+
+> ~/workspace/git-study/index.html
+	"	11	0
+	^	11	7
+	.	11	6
+	+	8	72
+	+	9	1
+	+	11	6
+
+> /tmp/crontab.yLNgLA/crontab
+	"	23	1
+	^	23	2
+	.	23	1
+	+	23	105
+	+	23	1
+
+> /tmp/crontab.qztJNU/crontab
+	"	22	0
+	^	22	30
+	.	22	30
+	+	22	30
+
+> /tmp/tutorcwt1HL
+	"	67	0
+	^	13	14
+	.	16	0
+	+	82	58
+	+	107	62
+	+	315	0
+	+	316	0
+	+	383	0
+	+	385	0
+	+	382	0
+	+	13	14
+	+	16	0
+
+> /tmp/tutorULhNGr
+	"	975	0
+	^	73	0
+	.	73	0
+	+	73	0
+
+> ~/workspace/vim-study/test.txt
+	"	1	0
+
+> ~/.profile
+	"	1	0
